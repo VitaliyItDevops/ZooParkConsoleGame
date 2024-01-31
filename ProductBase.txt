@@ -1,0 +1,8 @@
+Feed 2
+Monkey 4
+Lion 10
+Elephant 13
+Penguin 15
+EnclosureL 15
+EnclosureE 20
+EnclosureP 25
